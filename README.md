@@ -14,7 +14,7 @@ ___
 ___
 
 
-## Aquire $ROCKS exclusively on [alcor.exchange](https://wax.alcor.exchange/trade/rocks-digdougrocks_wax-eosio.token)
+## Aquire $ROCKS on [alcor.exchange](https://wax.alcor.exchange/trade/rocks-digdougrocks_wax-eosio.token) and by playing [DigDoug](digdoug.rocks)
 
 
 ‼️ Ensure the contract name is [digdougrocks](https://wax.bloks.io/account/digdougrocks) to avoid fake rocks.
