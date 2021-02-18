@@ -2,7 +2,7 @@
 [$ROCKS](https://wax.alcor.exchange/trade/rocks-digdougrocks_wax-eosio.token) is a [WAX](https://wax.io/) token earned in the game DigDoug by digging. 
 
 ## Crystals
-Smash $ROCKS on digdoug.rocks to reveal Common, Uncommon, Rare, Epic, and Legendary NFT crystals, minerals, and more.
+Smash [$ROCKS](https://wax.alcor.exchange/trade/rocks-digdougrocks_wax-eosio.token) on digdoug.rocks to reveal Common, Uncommon, Rare, Epic, and Legendary NFT crystals, minerals, and more.
 
 ___
 
