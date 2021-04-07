@@ -27,4 +27,4 @@ ___
 - [ ] Launch DigDoug native Android app
 
 
-*DigDoug is made by Ammon the Wind*
+*DigDoug is made by Douglas Butner*
