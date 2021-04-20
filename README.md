@@ -14,7 +14,7 @@ ___
 ___
 
 
-## Aquire $ROCKS on [alcor.exchange](https://wax.alcor.exchange/trade/rocks-digdougrocks_wax-eosio.token) and by playing [DigDoug](digdoug.rocks)
+## Aquire $ROCKS on [alcor.exchange](https://wax.alcor.exchange/trade/rocks-digdougrocks_wax-eosio.token) and by playing [DigDoug](https://digdoug.rocks)
 
 
 ‼️ Ensure the contract name is [digdougrocks](https://wax.bloks.io/account/digdougrocks) to avoid fake rocks.
@@ -23,8 +23,8 @@ ___
 # Roadmap
 - [x] Launch $ROCKS on WAX
 - [x] List [$ROCKS](https://wax.alcor.exchange/trade/rocks-digdougrocks_wax-eosio.token) on Alcor DEX
-- [ ] Launch DigDoug web app on [DigDoug.rocks](digdoug.rocks)
+- [ ] Launch DigDoug web app on [DigDoug.rocks](https://digdoug.rocks)
 - [ ] Launch DigDoug native Android app
 
 
-*DigDoug is made by [Douglas Butner](https://douglas.life)*
+*DigDoug is made by [Douglas Butner](https://douglas.life) unrelated to Doug in DigDoug*
