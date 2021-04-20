@@ -14,7 +14,10 @@ ___
 ___
 
 
-## Aquire $ROCKS on [alcor.exchange](https://wax.alcor.exchange/trade/rocks-digdougrocks_wax-eosio.token) and by playing [DigDoug](https://digdoug.rocks)
+## Trade $ROCKS on [alcor.exchange](https://wax.alcor.exchange/trade/rocks-digdougrocks_wax-eosio.token) or earn them by playing [DigDoug](https://digdoug.rocks)
+
+
+
 
 
 ‼️ Ensure the contract name is [digdougrocks](https://wax.bloks.io/account/digdougrocks) to avoid fake rocks.
@@ -27,4 +30,6 @@ ___
 - [ ] Launch DigDoug native Android app
 
 
-*DigDoug is made by [Douglas Butner](https://douglas.life) unrelated to Doug in DigDoug*
+*DigDoug is made by [Douglas](https://douglas.life) from [cXc](https://music.cxc.world)*
+
+> DigDoug + $ROCKS are not related to cXc.world or Purple in any way
