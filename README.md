@@ -30,6 +30,6 @@ ___
 - [ ] Launch DigDoug native Android app
 
 
-*DigDoug is made by [Douglas](https://douglas.life) from [cXc](https://music.cxc.world)*
+*DigDoug is made by [Douglas](https://douglas.life) from [cXc](https://music.cxc.world) and fam to [Perma.rocks](https://perma.rocks/)*
 
 > DigDoug + $ROCKS are not related to cXc.world or Purple in any way
