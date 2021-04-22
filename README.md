@@ -17,11 +17,11 @@ ___
 ## Trade $ROCKS on [alcor.exchange](https://wax.alcor.exchange/trade/rocks-digdougrocks_wax-eosio.token) or earn them by playing [DigDoug](https://digdoug.rocks)
 
 
-
-
-
 ‼️ Ensure the contract name is [digdougrocks](https://wax.bloks.io/account/digdougrocks) to avoid fake rocks.
 
+# Get to know [Rockonomics](Rockonomics.md)
+
+We'll all need to work together to smash all these ROCKS.
 
 # Roadmap
 - [x] Launch $ROCKS on WAX
